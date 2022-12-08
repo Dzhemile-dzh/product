@@ -1,0 +1,202 @@
+[
+    {
+        "name": "gin",
+        "description": "Gin is a distilled liquor that gets its flavor from juniper berries."
+    },
+    {
+        "name": "vodka",
+        "description": "Vodka is a clear distilled liquor from Europe with a neutral flavor."
+    },
+    {
+        "name": "whiskey",
+        "description": "Whiskey is a distilled liquor made from grain mash."
+    },
+    {
+        "name": "tequilla", 
+        "description": "Tequila is a Mexican distilled spirit made from a specific type of agave: the blue agave plant, or agave tequiliana"
+    },
+    {
+        "name": "rum", 
+        "description": "Rum is a distilled liquor made from sugarcane molasses or juice. Styles of rum include white rum, golden rum, dark rum, and aged rum."
+    },
+    {
+        "name": "brandy", 
+        "description": "Brandy, alcoholic beverage distilled from wine or a fermented fruit mash. The term used alone generally refers to the grape product; brandies made from the wines or fermented mashes of other fruits are commonly identified by the specific fruit name."
+    },
+    {
+        "name": "absienthe", 
+        "description": "Absinthe is a green anise-flavored spirit made from distilling alcohol with botanicals like wormwood, anise, fennel and other herbs."
+    },
+    {
+        "name": "amaretto",
+        "description": "Amaretto is an Italian almond-flavored liqueur invented in 1851."
+    },
+    {
+        "name": "amaro", 
+        "description": "Amaro or amari is a family of Italian herbal liqueurs that taste bitter (amaro means bitter in Italian)"
+    },
+    {
+        "name": "aperol", 
+        "description": "Aperol is a sweet Italian liqueur (amaro) with a citrus flavor."
+    },
+    {
+        "name": "campari",
+        "description": "Campari is a popular bright red Italian amaro invented in the 1860s with a very bitter flavor."
+    },
+    {
+        "name": "gin2", 
+        "description": "Gin is a distilled liquor that gets its flavor from juniper berries."
+    },
+    {
+        "name": "vodka2",
+        "description": "Vodka is a clear distilled liquor from Europe with a neutral flavor."
+    },
+    {
+        "name": "whiskey2",
+        "description": "Whiskey is a distilled liquor made from grain mash."
+    },
+    {
+        "name": "tequilla2", 
+        "description": "Tequila is a Mexican distilled spirit made from a specific type of agave: the blue agave plant, or agave tequiliana"
+    },
+    {
+        "name": "rum2", 
+        "description": "Rum is a distilled liquor made from sugarcane molasses or juice. Styles of rum include white rum, golden rum, dark rum, and aged rum."
+    },
+    {
+        "name": "brandy2",
+        "description": "Brandy, alcoholic beverage distilled from wine or a fermented fruit mash. The term used alone generally refers to the grape product; brandies made from the wines or fermented mashes of other fruits are commonly identified by the specific fruit name."
+    },
+    {
+        "name": "absienthe2", 
+        "description": "Absinthe is a green anise-flavored spirit made from distilling alcohol with botanicals like wormwood, anise, fennel and other herbs."
+    },
+    {
+        "name": "amaretto2", 
+        "description": "Amaretto is an Italian almond-flavored liqueur invented in 1851."
+    },
+    {
+        "name": "amaro2", 
+        "description": "Amaro or amari is a family of Italian herbal liqueurs that taste bitter (amaro means bitter in Italian)."
+    },
+    {
+        "name": "aperol2",
+        "description": "Aperol is a sweet Italian liqueur (amaro) with a citrus flavor."
+    },
+    {
+        "name": "campari2",
+        "description": "Campari is a popular bright red Italian amaro invented in the 1860s with a very bitter flavor."
+    },
+    {
+        "name": "forthifield wine2", 
+        "description": "Fortified wine is a type of alcohol that adds a distilled spirit (usually brandy) to a wine to stabilize it."
+    },
+    {
+        "name": "lillet2", 
+        "description": "Lillet (pronounced lee-LAY) is a French aromatized aperitif wine made with a blend of Bordeaux grapes and fortified with a blend of citrus liqueurs."
+    },
+    {
+        "name": "madaira2",
+        "description": "Madeira is a fortified wine made on the Portuguese islands of Madeira, produced in a range of styles from bone dry to sticky sweet."
+    },
+    {
+        "name": "sherry2",
+        "description": "Sherry is a fortified wine from the Jerez region of Spain, where the primary grape is Palomino."
+    },
+    {
+        "name": "vermuth2",
+        "description": "Vermouth is an aromatized wine that includes wine, botanicals, some sugar (or grape juice) and spirits to fortify the wine."
+    },
+    {
+        "name": "ales2", 
+        "description": "Ale is a type of beer brewed using a warm fermentation method, resulting in a sweet, full-bodied and fruity taste."
+    },
+    {
+        "name": "weath2", 
+        "description": "Wheat is whiskey is type of distilled alcoholic beverage, generally made from fermented grain mash including barley, corn, rye, and wheat."
+    },
+    {
+        "name": "porter2", 
+        "description": "Porter is a style of beer that was developed in London, England in the early 18th century. It was well-hopped and dark in appearance owing to the use of brown malt."
+    },
+    {
+        "name": "pilsner2", 
+        "description": "Pilsner is brewed with pilsner malt and lager yeast, which is bottom-fermenting and distinguishes lagers from ales."
+    },
+    {
+        "name": "stout2", 
+        "description": "stout contains nearly twice the amount of antioxidants found in light-coloured lagers. Stout is packed with flavonoids, the antioxidants that give fruit and vegetables their dark colour."
+    },
+    {
+        "name": "cappelletti2", 
+        "description": "Cappelletti, aka Aperitivo Cappelletti, is a wine-based Italian red bitter aperitif that\"s been produced by the Cappelletti family for four generations."
+    },
+    {
+        "name": "drambuie2", 
+        "description": "Drambuie is a whisky liqueur. A blend of aged Scotch whisky, spices, herbs & heather honey. Its origins can be traced to a secret recipe created for Bonnie Prince Charlie by his Royal Apothecary in the 18th Century."
+    },
+    {
+        "name": "galliano2", 
+        "description": "Galliano L'Autentico is a bright yellow, sweet herbal Italian liqueur. It\"s made with a blend of 30 herbs, spices and plant extracts, and was invented in Tuscany, Italy since 1896."
+    },
+    {
+        "name": "limoncello2",
+        "description": " Limoncello is made with a neutral alcohol: vodka, grappa or rectified spirit (highly concentrated ethanol)"
+    },
+    {
+        "name": "forthifield wine", 
+        "description": "Fortified wine is a type of alcohol that adds a distilled spirit (usually brandy) to a wine to stabilize it."
+    },
+    {
+        "name": "lillet",
+        "description": "Lillet (pronounced lee-LAY) is a French aromatized aperitif wine made with a blend of Bordeaux grapes and fortified with a blend of citrus liqueurs."
+    },
+    {
+        "name": "madaira",
+        "description": "Madeira is a fortified wine made on the Portuguese islands of Madeira, produced in a range of styles from bone dry to sticky sweet."
+    },
+    {
+        "name": "sherry",
+        "description": "Sherry is a fortified wine from the Jerez region of Spain, where the primary grape is Palomino."
+    },
+    {
+        "name": "vermuth",
+        "description": "Vermouth is an aromatized wine that includes wine, botanicals, some sugar (or grape juice) and spirits to fortify the wine."
+    },
+    {
+        "name": "ales",
+        "description": "Ale is a type of beer brewed using a warm fermentation method, resulting in a sweet, full-bodied and fruity taste."
+    },
+    {
+        "name": "weath", 
+        "description": "Wheat is whiskey is type of distilled alcoholic beverage, generally made from fermented grain mash including barley, corn, rye, and wheat."
+    },
+    {
+        "name": "porter",
+        "description": "Porter is a style of beer that was developed in London, England in the early 18th century. It was well-hopped and dark in appearance owing to the use of brown malt."
+    },
+    {
+        "name": "pilsner",
+        "description": "Pilsner is brewed with pilsner malt and lager yeast, which is bottom-fermenting and distinguishes lagers from ales"
+    },
+    {
+        "name": "stout",
+        "description": "stout contains nearly twice the amount of antioxidants found in light-coloured lagers. Stout is packed with flavonoids, the antioxidants that give fruit and vegetables their dark colour."
+    },
+    {
+        "name": "cappelletti",
+        "description": "Cappelletti, aka Aperitivo Cappelletti, is a wine-based Italian red bitter aperitif that\"s been produced by the Cappelletti family for four generations."
+    },
+    {
+        "name": "drambuie",
+        "description": "Drambuie is a whisky liqueur. A blend of aged Scotch whisky, spices, herbs & heather honey. Its origins can be traced to a secret recipe created for Bonnie Prince Charlie by his Royal Apothecary in the 18th Century."
+    },
+    {
+        "name": "galliano",
+        "description": "Galliano L\"Autentico is a bright yellow, sweet herbal Italian liqueur. It\"s made with a blend of 30 herbs, spices and plant extracts, and was invented in Tuscany, Italy since 1896."
+    },
+    {
+        "name": "limoncello",
+        "description": " Limoncello is made with a neutral alcohol: vodka, grappa or rectified spirit (highly concentrated ethanol)."
+    }
+]

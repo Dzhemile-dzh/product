@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Diango",
+        "country": "Bulgaria"
+    },
+    {
+        "name": "Pernord Richard" ,
+        "country": "Italia"
+    },
+    {
+        "name": "Kwichow Moutai",
+        "country": "France"
+    },
+    {
+        "name": "Campari",
+        "country": "China"
+    },
+    {
+        "name": "Thai Beverage",
+        "country": "Spain"
+    },
+    {
+        "name": "Molson Coors" ,
+        "country": "USA"
+    },
+    {
+        "name": "United Spirits",
+        "country": "Japan"
+    },
+    {
+        "name": "Royal Unibrew" ,
+        "country": "Turkey"
+    },
+    {
+        "name": "Distell Group" ,
+        "country": "Greece"
+    },
+    {
+        "name": "Emperator Brandy",
+        "country": "India"
+    }
+]
